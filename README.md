@@ -43,5 +43,8 @@ mainWindow.webContents.on('render-process-gone',(event ,details )=>{
 })
 ```
 
+![Render Process Code 1](img/render_code.png)
+![enter image description here](a)
+![enter image description here](a)
 
    
