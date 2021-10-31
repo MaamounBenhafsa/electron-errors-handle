@@ -44,7 +44,7 @@ mainWindow.webContents.on('render-process-gone',(event ,details )=>{
 ```
 
 ![Render Process Code 1](img/render_code.png)
-![enter image description here](a)
-![enter image description here](a)
+![Ipc Handle Error Main Process Code 2 ](img/ipc-main-ps-handle-error.png)
+![Main Process Web Event ](img/main-ps-webcontents-code.png)
 
    
